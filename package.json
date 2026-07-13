@@ -1,7 +1,7 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "FYNEX-chat-bot",
   "version": "2.0.0",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By FYNEX PAPPA",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
@@ -22,12 +22,12 @@
     "shahadatproject",
     "messenger",
     "javascript",
-    "shadat",
+    "APON",
     "ullash",
-    "shahadat sahu",
-    "shahadat chat bot"
+    "FYNEX",
+    "Fynex chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "APON",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
